@@ -1,15 +1,13 @@
 ## Under Construction
 
-You can use the [editor on GitHub](https://github.com/tempes-t/tempes-t.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Tempest!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site is currently being worked on and probably won't see many updates until I start creating other projects. 
 
-### Markdown
+### Current Projects:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+tempes-t.github.io
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
